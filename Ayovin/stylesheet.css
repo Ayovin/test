@@ -108,6 +108,20 @@ input, select {
   text-decoration: none;
 }
 
+main{
+  padding-top: 100px;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: #fff;
+  width: 100%;
+  height: 100px;
+}
+
 header .header-brand {
   font-family: catamaran;
   font-size: 24px;
@@ -271,6 +285,8 @@ header .header-cases {
     line-height: 230px;
   }
 }
+
+/*CASES*/
 
 /*FOOTER*/
 footer {
